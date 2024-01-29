@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.nama:hover {
+    color: transparent;
+    -webkit-text-stroke: .10rem #776B5D;
+    letter-spacing: .5rem;
+}
+
+.nama {
+    transition: .5s;
+}
